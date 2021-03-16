@@ -1,2 +1,2 @@
 # Python
-Assignments_Coursera python for everybody
+Answers to the questions from practicepython.org
